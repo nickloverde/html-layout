@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+}
+
+header {
+  background-color: rgb(219, 218, 218);
+  height: 100px;
+  display: flex;
+}
+
+.tiny-blue {
+  background-color: rgb(0, 153, 255);
+  height: 65px;
+  width: 65px;
+  margin: auto 10px;
+}
+
+.text {
+  height: 100px;
+  font-size: 20px auto;
+  margin: 40px;
+}
+
+.blue-stripe {
+  height: 100px;
+  background-color: rgb(77, 112, 207);
+}
+
+.turq-stripe {
+  height: 100px;
+  background-color: rgb(39, 243, 233);
+}
+
+.green-stripe {
+  height: 100px;
+  background-color: rgb(205, 247, 123);
+}
+
+.yellow-stripe {
+  height: 100px;
+  background-color: rgb(243, 243, 15);
+}

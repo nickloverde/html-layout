@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  background-color: black;
+}
+
+header {
+  width: 100vw;
+  height: 20vh;
+  background-color: #444444;
+}
+
+.right-rectangle {
+  float: right;
+  width: 15vw;
+  height: 100vh;
+  background-color: #d8d8d8;
+}
+
+.left-rectangle {
+  float: left;
+  width: 15vw;
+  height: 100vh;
+  background-color: #d8d8d8;
+}
+
+.main {
+  width: 70vw;
+  height: 70vh;
+  background-color: white;
+  margin: auto;
+}
